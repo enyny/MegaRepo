@@ -1,0 +1,8 @@
+{
+    "name": "Mega repo ID",
+    "description": "Add all repositories easily.",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/enyny/MegaRepo/builds/plugins.json"
+    ]
+}

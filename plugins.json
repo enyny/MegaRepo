@@ -1,0 +1,18 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/enyny/MegaRepo/builds/megaid.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "megaid",
+        "internalName": "megaid",
+        "authors": [
+            
+        ],
+        "description": "This plugin adds all repositories each time the app is opened. Uninstall after one run if you do not want all repositories. Does not automatically refresh the repository list.",
+        "fileSize": 7905,
+        "repositoryUrl": "https://github.com/enyny/MegaRepo",
+        "language": "id",
+        "apiVersion": 1,
+        "fileHash": "sha256-a297f3a61745afbd56760f63955e1f957edb3bd4511bac47306a8a0ff69d7b6f"
+    }
+]

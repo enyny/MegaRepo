@@ -1,0 +1,16 @@
+[
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/enyny/MegaRepo",
+        "fileSize": 6936,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            
+        ],
+        "version": 1,
+        "internalName": "MegaID",
+        "url": "https://raw.githubusercontent.com/enyny/MegaRepo/builds/MegaProvider.cs3",
+        "name": "MegaID"
+    }
+]

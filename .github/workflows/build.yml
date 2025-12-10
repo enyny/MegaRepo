@@ -6,8 +6,8 @@ concurrency:
   cancel-in-progress: true
 
 on:
-   push:
-     branches:
+  push:
+    branches:
        choose your default branch
        - master
        - main

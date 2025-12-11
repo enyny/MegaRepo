@@ -8,11 +8,13 @@ concurrency:
 on:
   push:
     branches:
-       choose your default branch
+       # choose your default branch
        - master
        - main
-    paths-ignore:
-       - '*.md'
+    # paths-ignore:
+    #   - '*.md'
+    paths:
+       - mgmg.json
   workflow_dispatch:
 
 jobs:

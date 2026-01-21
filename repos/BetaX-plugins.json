@@ -1,0 +1,17 @@
+[
+  {
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/3658/3658959.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/zimbahmu/BetaX",
+    "fileSize": 20000,
+    "status": 1,
+    "language": "id",
+    "authors": ["Asm0d3usX"],
+    "tvTypes": ["Movie"],
+    "version": 1,
+    "internalName": "Dutamovie",
+    "description": "⚙️ Beta Test Only",
+    "url": "https://raw.githubusercontent.com/zimbahmu/BetaX/builds/Dutamovie.cs3",
+    "name": "Dutamovie"
+  }
+]

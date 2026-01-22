@@ -1,4 +1,4 @@
-package com.mega
+package com.megaid
 
 import com.lagradost.cloudstream3.plugins.CloudstreamPlugin
 import com.lagradost.cloudstream3.plugins.Plugin
@@ -14,7 +14,7 @@ import com.lagradost.cloudstream3.ui.settings.extensions.RepositoryData
 import com.lagradost.cloudstream3.utils.Coroutines.ioSafe
 
 @CloudstreamPlugin
-class MegaPlugin : Plugin() {
+class megaid : Plugin() {
     override fun load(context: Context) {
         ioSafe {
             val repositories = getRepositories()
@@ -48,7 +48,7 @@ class MegaPlugin : Plugin() {
         )
 
         val text =
-            app.get("https://raw.githubusercontent.com/enyny/MegaRepo/master/megaid.json").text
+            app.get("https://raw.githubusercontent.com/enyny/MegaRepo/refs/heads/master/megaid.json").text
 
         // To parse both objects and strings
         val tree = ObjectMapper().readTree(text)

@@ -1,5 +1,5 @@
 ### One repository to rule them all
-Add all other repositories at once. Add this repository using this shortcode: [id45](https://raw.githubusercontent.com/enyny/MegaRepo/master/repo.json)
+Add all other repositories at once. Add this repository using this shortcode: [id45](cloudstreamrepo://raw.githubusercontent.com/enyny/MegaRepo/master/repo.json)
 
 ~Click~ Pet the gorilla to install it on your phone:
 

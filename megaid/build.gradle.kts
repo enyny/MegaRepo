@@ -1,10 +1,10 @@
 // use an integer for version numbers
-version = 1
+version = 2
 
 cloudstream {
     description = "This plugin adds all repositories each time the app is opened. " +
-            "Uninstall after one run if you do not want all repositories. " +
-            "Does not automatically refresh the repository list."
+    "Uninstall after one run if you do not want all repositories. " +
+    "Does not automatically refresh the repository list."
 
     /**
     * Status int as the following:

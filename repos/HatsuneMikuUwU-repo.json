@@ -1,9 +1,0 @@
-{
-    "name": "HatsuneMikuUwU",
-    "iconUrl": "https://avatars.githubusercontent.com/u/146099520?v=4",
-    "description": "HatsuneMikuUwU collections",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/HatsuneMikuUwU/cloudstream-extensions-uwu/refs/heads/builds/plugins.json"
-    ]
-}
